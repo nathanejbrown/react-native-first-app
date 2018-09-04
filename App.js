@@ -6,22 +6,34 @@ import PlaceList from './src/components/PlaceList/PlaceList';
 
 export default class App extends Component {
   state = {
-    places: ['Munich', 'San Francisco']
+    places: [
+      {
+        value: 'Munich',
+        key: Math.random()
+      }, 
+      {
+        value: 'San Francisco',
+        key: Math.random()
+      }
+    ]
   }
 
   placeAddedHandler = placeName => {
     this.setState(prevState => {
       return {
-        places: prevState.places.concat(placeName)
+        places: prevState.places.concat({
+          key: Math.random(), 
+          value: placeName
+        })
       }
     })
   }
 
-  placeDeletedHandler = index => {
+  placeDeletedHandler = key => {
     this.setState(prevState => {
       return {
-        places: prevState.places.filter((place, i) => {
-          return i !== index;
+        places: prevState.places.filter(place => {
+          return place.key !== key;
         })
       }
     })
