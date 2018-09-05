@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		BxQ/A5dWEtw/2C9CnNicqWE+Jps=
+		aiVZvMpdC5UxCYVfnHlBig1qROU=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -63,7 +63,7 @@
 		</data>
 		<key>PlugIns/myfirstappTests.xctest.dSYM/Contents/Resources/DWARF/myfirstappTests</key>
 		<data>
-		Q4Joj2O0UpMFGYlbIY2vYX65tco=
+		nD/ba4tTyPNDhou/sh2PcRb4jUM=
 		</data>
 		<key>PlugIns/myfirstappTests.xctest/Info.plist</key>
 		<data>
@@ -75,7 +75,7 @@
 		</data>
 		<key>PlugIns/myfirstappTests.xctest/myfirstappTests</key>
 		<data>
-		9IE7eu4Z+3Yk7Dg3vVpeCup0zpM=
+		cliGZTg3/31OTrNdlUsJ/HnhYzk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BxQ/A5dWEtw/2C9CnNicqWE+Jps=
+			aiVZvMpdC5UxCYVfnHlBig1qROU=
 			</data>
 			<key>hash2</key>
 			<data>
-			OTOkPdfjo3SXi0or/TZIc31MnQEL+yrYglDXKbwu5nA=
+			FeRhcbWPrtA1L9f3TUmTh9P4XcLKoaaBBpDt8ZTRWJM=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q4Joj2O0UpMFGYlbIY2vYX65tco=
+			nD/ba4tTyPNDhou/sh2PcRb4jUM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Am9+8HulG0F4ohGQw7tzxse8SMAkp25gEg9jLWhMrUw=
+			YJr6ilDeW5dl1tHanMA4kfH/tOZol/xShf59lCx5tzU=
 			</data>
 		</dict>
 		<key>PlugIns/myfirstappTests.xctest/Info.plist</key>
@@ -240,11 +240,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9IE7eu4Z+3Yk7Dg3vVpeCup0zpM=
+			cliGZTg3/31OTrNdlUsJ/HnhYzk=
 			</data>
 			<key>hash2</key>
 			<data>
-			7VV9r43WooNnBNQhcQEGbAcRSnXnKESVas+r3u2l/WQ=
+			T+l8OukUkJcBtWkjgCvOkxs8Up+f3WQfs87RJneVPuk=
 			</data>
 		</dict>
 	</dict>
